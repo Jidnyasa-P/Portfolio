@@ -9,7 +9,7 @@ This project highlights:
 
 I used tools like Next.js, and Formspree to build a modern, responsive, and clean design — ready to grow as I do!<br><br>
 
-💡 Tech Stack:
+💡 Tech Stack:<br>
 • Frontend – React, Next.js (App Router), Tailwind CSS, HTML, CSS, JavaScript<br>
 • Backend – Formspree (for contact form responses) <br>
 • Hosting – Vercel<br><br>
