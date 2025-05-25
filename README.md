@@ -1,30 +1,20 @@
 # Jidnyasa Patil portfolio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+#This project highlights:
+<br>
+- My technical skills in HTML, CSS, JavaScript, React, and Tailwind CSS<br>
+- Real-world projects like LanguaLive, Plan My Voyage, PawPalace, and more<br>
+- An interactive resume, contact form, dark/light theme toggle, and smooth animations and mobile responsiveness too. 
+<br><br>
+I used tools like Next.js, and Formspree to build a modern, responsive, and clean design — ready to grow as I do!<br><br>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jidnyasapatil019-gmailcoms-projects/v0-jidnyasa-patil-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/G8rZSVg1weQ)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+##💡 Tech Stack:
+• Frontend – React, Next.js (App Router), Tailwind CSS, HTML, CSS, JavaScript<br>
+• Backend – Formspree (for contact form responses) <br>
+• Hosting – Vercel<br><br>
 
 ## Deployment
 
-Your project is live at:
+My project is live at:
 
 **[https://vercel.com/jidnyasapatil019-gmailcoms-projects/v0-jidnyasa-patil-portfolio](https://vercel.com/jidnyasapatil019-gmailcoms-projects/v0-jidnyasa-patil-portfolio)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/G8rZSVg1weQ](https://v0.dev/chat/projects/G8rZSVg1weQ)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
