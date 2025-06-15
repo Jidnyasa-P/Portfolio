@@ -18,4 +18,4 @@ I used tools like Next.js, and Formspree to build a modern, responsive, and clea
 
 My project is live at:
 
-**[https://vercel.com/jidnyasapatil019-gmailcoms-projects/v0-jidnyasa-patil-portfolio](https://vercel.com/jidnyasapatil019-gmailcoms-projects/v0-jidnyasa-patil-portfolio)**
+**https://v0-jidnyasa-patil-portfolio.vercel.app/**
