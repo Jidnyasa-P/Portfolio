@@ -95,7 +95,7 @@ export default function About() {
                 <h4 className="font-medium">B.Tech in Computer Engineering</h4>
                 <p className="text-sm text-foreground/70">MMCOE Pune</p>
                 <p className="text-xs text-foreground/60">2024 - 2028</p>
-                <p className="text-xs text-foreground/80">SGPA: 9.82/10 in sem 1</p>
+                <p className="text-xs text-foreground/80">CGPA: 9.86/10 in First Year</p>
               </motion.div>
 
               <motion.div variants={fadeIn} className="mb-3 border-l-2 border-blue-500 pl-4">
